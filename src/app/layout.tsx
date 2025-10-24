@@ -6,7 +6,7 @@ import Footer from "@/components/layout/Footer";
 export const metadata: Metadata = {
   title: "Taskorly - AI Assistant for Restaurants & Retail",
   description: "Your personalised AI assistant that connects to your business systems—answering questions, solving problems, and helping your team succeed in real-time.",
-  keywords: "AI assistant, restaurant technology, retail automation, POS integration, staff training, business intelligence",
+  keywords: "AI assistant, restaurant technology, retail automation, POS integration, staff training, business intelligence, business assistant",
   authors: [{ name: "Taskorly Team" }],
   icons: {
     icon: [
